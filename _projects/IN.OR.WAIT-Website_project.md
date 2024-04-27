@@ -2,7 +2,7 @@
 layout: page
 title: IN.OR.WAIT
 description: Building websites
-img: assets/img/3.jpg
+img: assets/img/IN.OR.WAIT_Website.png
 redirect: https://in-or-wait.com/
 importance: 2
 category: work
