@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Fleiner Judoka
-description: Buidling Websites
+title: This is an example project
+description: Why so pretty?
 img: assets/img/12.jpg
 importance: 1
 category: work
