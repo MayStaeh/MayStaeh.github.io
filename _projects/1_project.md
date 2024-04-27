@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Another example
+title: 
+Another example
 description: Why so pretty?
 img: assets/img/12.jpg
 importance: 3
