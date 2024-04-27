@@ -3,9 +3,9 @@ layout: page
 title: This is an example project
 description: Why so pretty?
 img: assets/img/12.jpg
-importance: 1
+importance: 3
 category: work
-related_publications: false
+related_publications: true
 ---
 
 Every project has a beautiful feature showcase page.
