@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='https://www.linkedin.com/in/maya-staehle/'>LinkedIn</a>
 
 profile:
-  align: right
+  align: left
   image: about_pic.jpg
   image_round: true # crops the image to make it circular
 
