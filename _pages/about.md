@@ -15,10 +15,10 @@ As an ambitious individual with a passion for learning and innovations, working 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Fleiner_Judoka_Website.png" title="Website_Testimonial" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Fleiner_Judoka_Website.png" title="Website_Testimonial" class="img-fluid rounded z-depth-1" height="500" width="400" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/IN.OR.WAIT_Website.png" title="Website_Testimonial" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/IN.OR.WAIT_Website.png" title="Website_Testimonial" class="img-fluid rounded z-depth-1" height="500" width="400" %}
     </div>
 </div>
 <div class="caption">
@@ -40,7 +40,7 @@ Aside from learning, I enjoy exploring the world.
         {% include figure.liquid path="assets/img/Reisebild_2.jpg" title="Travelling" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Reisebild_3.jpg" title="Travelling" class="img-fluid rounded z-depth-1" height="500" width="400" %}
+        {% include figure.liquid path="assets/img/Reisebild_3.jpg" title="Travelling" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
