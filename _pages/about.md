@@ -4,28 +4,14 @@ title: About
 permalink: /
 subtitle: <a href='https://www.linkedin.com/in/maya-staehle/'>LinkedIn</a>
 
-profile:
-  align: left
-  image: about_pic.jpg
-  image_round: true # crops the image to make it circular
-
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Hey, there!
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Nice meeting you and showing you a glimps of my life.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
