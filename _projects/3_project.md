@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
+title: Fleiner Judoka
+description: Building websites
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+redirect: https://my.website-editor.net/preview/9bcacbcdf9e6498eaf0d79282b1cd491
 importance: 3
 category: work
 ---
