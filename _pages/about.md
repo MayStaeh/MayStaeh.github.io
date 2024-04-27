@@ -20,9 +20,6 @@ As an ambitious individual with a passion for learning and innovations, working 
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/IN.OR.WAIT_Website.png" title="Website_Testimonial" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Reisebild_3.jpg" title="Südostasien" class="img-fluid rounded z-depth-1" %}
-    </div>
 </div>
 <div class="caption">
     You can find an excerpt from my current work under Projects.
