@@ -1,11 +1,11 @@
 ---
 layout: cv
 permalink: /cv/
-title: Cv
+title: CV
 nav: true
 nav_order: 3
 cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+description: An ambitious individual with a passion for innovations and technology, who likes working with people on projects that matter.
 toc:
   sidebar: left
 ---
