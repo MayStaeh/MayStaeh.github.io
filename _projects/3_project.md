@@ -2,7 +2,7 @@
 layout: page
 title: Fleiner Judoka
 description: Building websites
-img: assets/img/7.jpg
+img: assets/img/Fleiner_Judoka_Website.png
 redirect: https://my.website-editor.net/preview/9bcacbcdf9e6498eaf0d79282b1cd491
 importance: 3
 category: work
