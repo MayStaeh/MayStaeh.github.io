@@ -14,9 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hey, there!
-
-Bla bla bla
+If you are always trying to be normal, you will never know how amazing you can be. - Maya Angelou
 
 <!--Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.-->
 
