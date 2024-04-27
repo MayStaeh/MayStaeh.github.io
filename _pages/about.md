@@ -7,12 +7,14 @@ subtitle: <a href='https://www.linkedin.com/in/maya-staehle/'>LinkedIn</a>
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_round: true # crops the image to make it circular
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
+
+Hey, there!
 
 <!--Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.-->
 
