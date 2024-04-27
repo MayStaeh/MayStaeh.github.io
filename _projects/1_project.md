@@ -3,9 +3,9 @@ layout: page
 title: Another example
 description: Why so pretty?
 img: assets/img/12.jpg
-importance: 3
+importance: 
 category: work
-related_publications: true
+related_publications: false
 ---
 
 This is only an example from the internet.
