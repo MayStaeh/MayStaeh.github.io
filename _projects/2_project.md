@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: IN.OR.WAIT
+description: Building websites
 img: assets/img/3.jpg
+redirect: https://in-or-wait.com/
 importance: 2
 category: work
-giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.
