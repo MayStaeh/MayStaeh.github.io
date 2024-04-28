@@ -9,7 +9,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hey, there! Nice meeting you and showing you a glimps of my life.
+Hey, Frank! Nice meeting you and showing you a glimps of my life.
 
 As an ambitious individual with a passion for learning and innovations, working with people on impactful projects drives me. In doing so, I am currently focusing on projects, mainly in the area of Microsoft PowerApps (Power BI, Power Query, Power Virtual Agents, Power Automate), Website-Creation, and Design Thinking.
 
